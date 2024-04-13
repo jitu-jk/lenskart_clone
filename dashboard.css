@@ -313,14 +313,23 @@ background-color:blanchedalmond;
     justify-content:space-between;
     padding: 10px;
    padding-bottom: 5%;
-  
+     
 }
+
+.footer-column li {
+    list-style: none;
+    padding-left: 30px;
+    margin: 0;
+}
+
 
 .footer-img{
  justify-content: left;
  margin-left: 5px;
  align-items: end;
 }
+
+
 .footer-des{
     text-align: end;
     margin-left: 50%;
